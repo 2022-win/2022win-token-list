@@ -1,6 +1,6 @@
 # 20-22.win Token List for Ethereum, Binance Smart Chain (BSC) and Polygon (Matic) Mainnet
 
-<p align="center"><img src="https://uploads-ssl.webflow.com/5fb23ed0d183e443d48de300/60f7ddddcdb970cf579066c8_Ethereum%20and%20Polygon%20Full%20Token%20List%202.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Uniswap/tokenlists-org/master/public/card.png"></p>
 
 https://github.com/2022-win/2022win-token-list/blob/master/2022win-token-list.json <br>
 *We are using this token-list to show tokens on the major DEXs (1inch, Uniswap, Sushiswap, Quickswap, Pancakeswap) on Polygon, BSC and Ethereum Chain*
