@@ -14,7 +14,7 @@
     "bridge",
     "stock"
   ],
-  "tags": {
+ "tags": {
     "defi": {
       "name": "DeFi Market",
       "description": "Decentralized Finance protocols"
@@ -39,6 +39,10 @@
       "name": "Stablecoin",
       "description": "Stablecoins may be pegged to a currency like the US dollar or to a commoditys price such as gold"
     },
+    "alliance": {
+      "name": "Plasma Alliance",
+      "description": "Plasma Alliance of ambitious projects and game changing DeFi protocols"
+    },
     "dex": {
       "name": "DEX Tokens",
       "description": "Tokens from AMM protocols"
@@ -54,6 +58,10 @@
     "pools": {
       "name": "Pools",
       "description": "Earn trading fees by providing liquidity in a single transaction"
+    },
+    "synths": {
+      "name": "Synthetix",
+      "description": "Synthetic cryptocurrency by Synthetix protocol"
     },
     "stock": {
       "name": "Stock",
