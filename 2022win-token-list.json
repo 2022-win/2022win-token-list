@@ -1,5 +1,5 @@
 {
-  "name": "Plasma Finance",
+  "name": "2022WinTokenList",
   "keywords": [
     "PlasmaFinance",
     "default",
@@ -74,8 +74,8 @@
       "description": "Play to earn games rely on blockchain technology, including in the form of NFTs, as the foundation for value creation"
     }
   },
-  "timestamp": "2021-11-28T11:50:04+00:00",
-  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/ppay-logo.png",
+  "timestamp": "2022-02-28T11:50:04+00:00",
+  "logoURI": "https://raw.githubusercontent.com/2022-win/2022win-token-list/master/assets/20-22.jpg",
   "version": {
     "major": 17,
     "minor": 1,
