@@ -17,7 +17,7 @@ git clone https://github.com/2022-win/2022win-token-list
 ## 2. Add your token image in folder "Assets"
 
 ```
-https://github.com/2022-win/token-list/tree/master/assets 
+https://github.com/2022-win/2022win-token-list/tree/master/assets 
 ```
 
 ### Image Requirements
