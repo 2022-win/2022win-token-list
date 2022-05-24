@@ -6,14 +6,6 @@
 	"tokens": [
 		{
 			"chainId": 43114,
-			"address": "0xA953736904e23Fafb42e353D4122420899999999",
-			"name": "forbitspace",
-			"symbol": "FBS",
-			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
-		},
-		{
-			"chainId": 43114,
 			"address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
 			"decimals": 18,
 			"name": "Wrapped AVAX",
@@ -1086,11 +1078,11 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0xA953736904e23Fafb42e353D4122420899999999",
-			"name": "forbitspace",
-			"symbol": "FBS",
+			"address": "0xA42b4993bE875Bd7E25c597937EfB9b3F092a120",
+			"name": "Crypto TV Token",
+			"symbol": "CTV",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xA953736904e23Fafb42e353D4122420899999999/logo.png"
+			"logoURI": "https://cryptotv.finance/192x192.png"
 		},
 		{
 			"name": "Aave",
