@@ -1,6 +1,6 @@
 {
 	"name": "cryptotv",
-	"logoURI": "https://demo.winswap.win/Layer%200.png",
+	"logoURI": "https://cryptotv.finance/Layer%200.png",
 	"keywords": ["dex aggregator"],
 	"timestamp": "2021-06-07T08:03:33.395+00:00",
 	"tokens": [
@@ -1077,11 +1077,11 @@
 			"logoURI": "https://raw.githubusercontent.com/forbitspace/assets/main/blockchains/ethereum/assets/0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782/logo.png"
 		},
 		{
-			"chainId": 137,
+			"name": "CryptoTV",
 			"address": "0xA42b4993bE875Bd7E25c597937EfB9b3F092a120",
-			"name": "Crypto TV Token",
 			"symbol": "CTV",
 			"decimals": 18,
+			"chainId": 137,
 			"logoURI": "https://cryptotv.finance/192x192.png"
 		},
 		{
