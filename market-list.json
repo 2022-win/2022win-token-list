@@ -103,7 +103,7 @@
         "decimals": 18
       },
 	  {
-        "chainId": 200,
+        "chainId": 250,
         "address": "0x124F3105874fC01d513c9ebbC68f607367E13864",
         "name": "WinSwap Token (Wormhole)",
         "symbol": "WINS",
