@@ -1,7 +1,7 @@
 [
   {
-    "name": "Plasma Finance",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
+    "name": "WinSwap",
+    "logoURI": "https://winswap.win/logo/256x256.png",
     "tags": [
       "defi",
       "alliance",
@@ -10,53 +10,53 @@
       "ido",
       "nft"
     ],
-    "coingeckoId": "plasma-finance",
+    "coingeckoId": "",
     "description": {
-      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+      "en": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "es": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "fr": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "hu": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "id": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "it": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ja": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ko": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "nl": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pl": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pt": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ro": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ru": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "sv": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "th": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "tr": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "vi": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh-tw": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform."
     },
     "links": [
       {
         "icon": "website",
         "name": "Website",
-        "url": "https://plasma.finance"
+        "url": "https://WinSwap.win"
       },
       {
         "icon": "whitepaper",
         "name": "Whitepaper",
-        "url": "https://docs.plasma.finance"
+        "url": "https://docs.WinSwap.win"
       },
       {
         "icon": "telegram",
         "name": "Telegram",
-        "url": "https://t.me/OxPlasmaMedia"
+        "url": "https://t.me/win_dex"
       },
       {
         "icon": "reddit",
         "name": "Reddit",
-        "url": "https://www.reddit.com/r/PlasmaFinance/"
+        "url": ""
       },
       {
         "icon": "twitter",
         "name": "Twitter",
-        "url": "https://twitter.com/0xPlasma"
+        "url": "https://twitter.com/win_swap"
       },
       {
         "icon": "wechat",
@@ -66,17 +66,17 @@
       {
         "icon": "discord",
         "name": "Discord",
-        "url": "https://discord.gg/M3jDtyJ"
+        "url": ""
       },
       {
         "icon": "medium",
         "name": "Blog",
-        "url": "https://medium.com/plasmapay"
+        "url": ""
       },
       {
         "icon": "etherscan",
         "name": "Etherscan",
-        "url": "https://etherscan.io/token/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2"
+        "url": ""
       },
       {
         "icon": "github",
@@ -85,27 +85,34 @@
       }
     ],
     "tokenomicsData": {
-      "totalSupply": "1000000000"
+      "totalSupply": ""
     },
     "tokens": [
       {
-        "chainId": 1,
-        "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
-        "name": "Plasma",
-        "symbol": "WINS",
-        "decimals": 18
-      },
-      {
         "chainId": 137,
-        "address": "0x08158A6b5d4018340387d1A302f882E98a8bC5b4",
-        "name": "Plasma",
+        "address": "0xa76035cf39Cbdc57609C8977fe63d94dA5fEdC61",
+        "name": "WinSwap Token",
         "symbol": "WINS",
         "decimals": 18
       },
       {
         "chainId": 56,
         "address": "0xa79eda84cce518c57ba599e9f1a1b0c66f45e3a4",
-        "name": "Plasma",
+        "name": "WinSwap Token",
+        "symbol": "WINS",
+        "decimals": 18
+      },
+	  {
+        "chainId": 200,
+        "address": "0x124F3105874fC01d513c9ebbC68f607367E13864",
+        "name": "WinSwap Token (Wormhole)",
+        "symbol": "WINS",
+        "decimals": 18
+      },
+	  {
+        "chainId": 43114,
+        "address": "0x99755ff4332FFB8F8c0CC3f2B803AA5F4852C4B4",
+        "name": "WinSwap Token (Wormhole)",
         "symbol": "WINS",
         "decimals": 18
       }
@@ -13251,25 +13258,25 @@
       "ido"
     ],
     "description": {
-      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+      "en": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "es": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "fr": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "hu": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "id": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "it": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ja": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ko": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "nl": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pl": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "pt": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ro": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "ru": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "sv": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "th": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "tr": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "vi": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform.",
+      "zh-tw": "WinSwap is a cross-chain DeFi aggregator and portfolio management platform."
     },
     "links": [
       {
